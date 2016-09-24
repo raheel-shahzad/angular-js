@@ -1,3 +1,3 @@
 # angular-js
 
-Optional and ungraded requirements are also implemented
+Angular JS course assignment solutions
